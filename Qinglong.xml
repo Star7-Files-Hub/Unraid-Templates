@@ -26,7 +26,7 @@
     Mode="tcp" Description="用于访问 Qinglong 面板 WebUI"  Type="Port" 
     Display="always" Required="true" Mask="false">5700</Config>
   <Config Name="config 路径" Target="/ql/data" Default="" 
-    Mode="rw" Description="该目录将映射到容器中的 /ql/config，用于持久化存储 qinglong 配置文件" Type="Path" 
+    Mode="rw" Description="该目录将映射到容器中的 /ql/data，用于持久化存储 qinglong 配置文件" Type="Path" 
     Display="always" Required="false" Mask="false">/mnt/user/appdata/ql/data</Config>
   <WebUI>http://[IP]:[PORT:5700]/</WebUI>
   <Icon>https://icon.930407.xyz:1234/configData/icon/0_容器/Qinglong_A.png</Icon>
