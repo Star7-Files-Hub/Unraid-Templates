@@ -14,7 +14,7 @@
   <Category>MediaServer:Video MediaServer:Music MediaServer:Photos</Category>
   <WebUI>http://[IP]:[PORT:8096]/</WebUI>
   <TemplateURL/>
-  <Icon>https://icon.930407.xyz:1234/configData/icon/0_容器/Emby_A.png</Icon>
+  <Icon>https://icon.843003.xyz/configData/icon/0_容器/Emby_B.png</Icon>
   <ExtraParams>--gpus all</ExtraParams>
   <PostArgs/>
   <CPUset/>
