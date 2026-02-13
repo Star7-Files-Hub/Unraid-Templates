@@ -15,7 +15,7 @@ more important to be able to control your whole network.</Overview>
   <Category>Network: Network:DNS</Category>
   <WebUI>http://[IP]:[PORT:3000]/</WebUI>
   <TemplateURL>https://raw.githubusercontent.com/SiwatINC/unraid-ca-repository/master/docker-template/adguard_home.xml</TemplateURL>
-  <Icon>https://raw.githubusercontent.com/SiwatINC/unraid-ca-repository/master/icons/adguard.png</Icon>
+  <Icon>https://icon.843003.xyz/configData/icon/0_容器/Adguard_B.png</Icon>
   <ExtraParams/>
   <PostArgs/>
   <CPUset/>
